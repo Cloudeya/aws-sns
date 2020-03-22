@@ -30,7 +30,7 @@ This template describes a SNS topic that can be used by many other templates to 
 
 ## Installation Guide
 
-1. [![Launch Stack](./images/launch-stack.png)](https://console.aws.amazon.com/cloudformation/home#/stacks/new?stackName=aws-sns&templateURL=https://s3.amazonaws.com/tug-cf-templates/v1.0.0/operations/aws-sns.json)
+1. [![Launch Stack](./images/launch-stack.png)](https://console.aws.amazon.com/cloudformation/home#/stacks/new?stackName=aws-sns&templateURL=https://gitlab.com/cloudeya/aws-sns/-/raw/master/aws-sns.json)
 1. Click **Next** to proceed with the next step of the wizard.
 1. Specify a name and all parameters for the stack.
 1. Click **Next** to proceed with the next step of the wizard.
