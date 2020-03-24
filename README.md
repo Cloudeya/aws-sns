@@ -45,7 +45,7 @@ We help startups, private equity and Government Digital Service (GDS) build succ
 
 ## License
 
-All templates are published under [Apache License Version 2.0](./license.txt).
+The script is published under [BSD 3-Clause License](license.txt).
 
 ## Copyright
 
