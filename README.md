@@ -30,7 +30,7 @@ This template describes a SNS topic that can be used by many other templates to 
 
 ## Installation Guide
 
-1. [![Launch Stack](./images/launch-stack.png)](https://console.aws.amazon.com/cloudformation/home#/stacks/new?stackName=aws-sns&templateURL=https://gitlab.com/cloudeya/aws-sns/-/raw/master/aws-sns.json)
+1. [![Launch Stack](./images/launch-stack.png)](https://console.aws.amazon.com/cloudformation/home#/stacks/new?stackName=aws-sns&templateURL=https://github.com/cloudeya/aws-sns/-/raw/master/aws-sns.json)
 1. Click **Next** to proceed with the next step of the wizard.
 1. Specify a name and all parameters for the stack.
 1. Click **Next** to proceed with the next step of the wizard.
@@ -41,7 +41,7 @@ This template describes a SNS topic that can be used by many other templates to 
 
 ## Support
 
-We help startups, private equity and Government Digital Service (GDS) build successful products by solving challenging problems through design thinking, intuitive interfaces, and software engineering; we use the latest easy to scale technologies. Additionally, we offer paid support for our CloudFormation templates. Our team can set up cloud resources based on our templates, create custom templates for specific use cases, and resolve existing issues in production environments. Ready to start? Hire us [tech@cloudeya.co.uk](mailto:tech@cloudeya.co.uk?subject=Cloud%20Infrastructure).
+We help startups, private equity and Government Digital Service (GDS) build successful products by solving challenging problems through design thinking, intuitive interfaces, and software engineering; we use the latest easy to scale technologies. Additionally, we offer paid support for our CloudFormation templates. Our team can set up cloud resources based on our templates, create custom templates for specific use cases, and resolve existing issues in production environments. Ready to start? [Hire us](mailto:cloudeya@pm.me?subject=Cloud%20Infrastructure).
 
 ## License
 
@@ -49,4 +49,4 @@ The script is published under [BSD 3-Clause License](license.txt).
 
 ## Copyright
 
-(c) 2018 [Cloudeya Limited](https://www.cloudeya.co.uk).
+(c) 2018 [Cloudeya Limited](https://www.cloudeya.ml).

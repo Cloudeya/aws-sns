@@ -282,11 +282,11 @@
   },
   "Outputs": {
       "TemplateID": {
-          "Description": "cloudeya.co.uk template id.",
+          "Description": "cloudeya.ml template id.",
           "Value": "operations/alert"
       },
       "TemplateVersion": {
-          "Description": "cloudeya.co.uk template version.",
+          "Description": "cloudeya.ml template version.",
           "Value": "v1.0.0"
       },
       "StackName": {
