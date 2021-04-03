@@ -1,6 +1,6 @@
 {
   "AWSTemplateFormatVersion": "2010-09-09",
-  "Description": "Amazon Simple Notification Service (SNS). A custom CloudFormation template by Cloudeya Limited.",
+  "Description": "Amazon Simple Notification Service (SNS). A custom CloudFormation template by Phooni Limited.",
   "Metadata": {
       "AWS::CloudFormation::Interface": {
           "ParameterGroups": [
@@ -282,11 +282,11 @@
   },
   "Outputs": {
       "TemplateID": {
-          "Description": "cloudeya.ml template id.",
+          "Description": "phooni.com template id.",
           "Value": "operations/alert"
       },
       "TemplateVersion": {
-          "Description": "cloudeya.ml template version.",
+          "Description": "phooni.com template version.",
           "Value": "v1.0.0"
       },
       "StackName": {
